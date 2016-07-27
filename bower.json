@@ -1,0 +1,20 @@
+{
+  "name": "forumotion",
+  "description": "Forumotion projects, plugins, widgets and snippets",
+  "main": "index.js",
+  "authors": [
+    "Wagner Souza <wagner.junior@fh.com.br>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/waghcwb/forumotion",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
