@@ -1,0 +1,6 @@
+{
+	"scripts": [
+		"forumotion.js",
+		"plugins/ajax-delete-message.js"
+	]
+}
