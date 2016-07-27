@@ -21,7 +21,7 @@
         _deleteMessage: function( $link ) {
             var _link = $link.attr('href');
 
-            console.warn(link);
+            console.warn(_link);
         }
     });
 
